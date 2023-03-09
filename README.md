@@ -1,2 +1,2 @@
-# TSQL_Tuning_2023_03_09
- TSQL Tuning am 09.03.2023
+# Test
+ TSQL Tuning am 14.02.2023. Trainer: Lukas Kern (LukasK@ppedv.de)
